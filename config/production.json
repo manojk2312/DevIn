@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://manojkodavati:VAfoPPnvhzQ5BHxg@manojk.62eb6vb.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"",
+    "githubSecret":""
+}
